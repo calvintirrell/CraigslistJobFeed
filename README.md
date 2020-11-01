@@ -9,4 +9,4 @@ This reminded me of all the times I had been job searching in the past and that 
 The project starts by first searching for a job title (ie: 'analyst') and then selecting a maximum distance from a zip code (20 miles from 98101) - if you want.
 Once you see the results of your search: copy and paste the url you have and replace the existing one already in the project.
 
-Save the project and then it should be all set to run. Currently, the biggest limitation is having to run this program every time you want to see updates. I've been searching for more updated information on being able to put this program inside of a cloud computing instance so that the job feed will auto update. However, with a new job as of this past Tuesday(9/22), my free time to work on this and other projects is limited.
+Save the project and then it should be all set to run. Currently, the biggest limitation is having to run this program every time you want to see updates. I've been searching for more updated information on being able to put this program inside of a cloud computing instance so that the job feed will auto update.
